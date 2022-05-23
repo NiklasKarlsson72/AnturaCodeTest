@@ -1,0 +1,15 @@
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.csproj.AssemblyReference.cache
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.AssemblyInfoInputs.cache
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.AssemblyInfo.cs
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.csproj.CoreCompileInputs.cache
+C:\Git\AnturaTest\AnturaTest\bin\Debug\net6.0\AnturaTest.exe
+C:\Git\AnturaTest\AnturaTest\bin\Debug\net6.0\AnturaTest.deps.json
+C:\Git\AnturaTest\AnturaTest\bin\Debug\net6.0\AnturaTest.runtimeconfig.json
+C:\Git\AnturaTest\AnturaTest\bin\Debug\net6.0\AnturaTest.dll
+C:\Git\AnturaTest\AnturaTest\bin\Debug\net6.0\AnturaTest.pdb
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.dll
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\refint\AnturaTest.dll
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.pdb
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\AnturaTest.genruntimeconfig.cache
+C:\Git\AnturaTest\AnturaTest\obj\Debug\net6.0\ref\AnturaTest.dll

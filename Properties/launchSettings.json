@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AnturaTest": {
+      "commandName": "Project",
+      "commandLineArgs": "Antura.txt",
+      "workingDirectory": "C:\\Git\\AnturaTest\\AnturaTest"
+    }
+  }
+}

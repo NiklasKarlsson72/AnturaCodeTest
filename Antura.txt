@@ -1,0 +1,5 @@
+﻿A file used in the Antura code example.
+It should count the occurances of a word, in this case "Antura" in the file named "Antura.txt".
+
+
+Hope to be able to pass the test and be able to talk my solution through with the developers at Antura.
